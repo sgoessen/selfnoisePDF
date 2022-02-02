@@ -21,7 +21,7 @@ Python 3.5.X
 Obspy
 
 # Example output:
-![Example output](https://raw.githubusercontent.com/sgoessen/selfnoisePDF/master/3TvsSTS2.5_BFO (002).png)
+![Example output](https://raw.githubusercontent.com/sgoessen/selfnoisePDF/master/3TvsSTS25BFO.png)
 
 ## calc_selfnoise_pdfs.py
 **********************
