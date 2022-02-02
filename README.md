@@ -21,7 +21,7 @@ Python 3.5.X
 Obspy
 
 # Example output:
-![Example output](https://raw.githubusercontent.com/sgoessen/selfnoisePDF/master/3T_360s-50Hz%20%2B%20Affinity%20Vertical_5692_20190505_20190505.png)
+![Example output](https://raw.githubusercontent.com/sgoessen/selfnoisePDF/master/3TvsSTS2.5_BFO (002).png)
 
 ## calc_selfnoise_pdfs.py
 **********************
